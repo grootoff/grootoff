@@ -1,42 +1,91 @@
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Hey Everyone<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, This is Manish😃 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+<h1 align="center">Hey 👋, I'm Manish</h1>
+<h3 align="center">Frontend Developer | React • TypeScript • Scalable UI</h3>
 
-<hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
+<p align="center">
+🚀 Building high-performance SaaS products & clean user experiences  
+</p>
 
-👋🏻 Hiya, I’m Manish✌🏻 <br/>
-👀 I’m interested in Open Source 😄<br/>
-🌱 Trying to learn new technologies and try to keep myself busy 🤵🏻 <br/>
-👨🏻‍💻 Currently exploring Open Source field 📱</br>
-💞️ I’m open for collaboration on every interesting project/stuff ✌🏻<br/>
-📫 You can contact me through these socials IDs 😁👇🏻 <br/>
+---
 
-## 🌐 Socials:
+## 👨‍💻 About Me
+
+- 💼 Frontend Developer with experience in **B2B SaaS products**
+- ⚛️ Specialized in **React, TypeScript & component-driven architecture**
+- 📦 Built **25+ features** & reusable UI libraries
+- ⚡ Improved development speed by **~40% via reusable components**
+- 🌱 Currently exploring **system design & frontend performance**
+- 🤝 Open to **collaboration & impactful projects**
+
+---
+
+## 🚀 Featured Projects
+
+### 🧾 Sanctions Screener  
+- Built scalable UI for enterprise compliance workflows  
+- Implemented dynamic filtering & large dataset handling  
+
+### 🌍 Global Trade Compliance  
+- Developed dashboards used by **500+ enterprise users**  
+- Focused on performance & modular UI design  
+
+### 📊 HS Classifier  
+- Created intuitive classification interface  
+- Improved usability for complex trade data  
+
+---
+
+## 🛠️ Tech Stack
 
 <p>
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=grootoff&theme=tokyonight&hide_border=true&show_icons=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=grootoff&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
 <a href="https://www.linkedin.com/in/grootoff/">
-<img border="0" alt="Manish Kumar" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
+<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
 </a>
 <a href="https://twitter.com/grootoff6">
-<img border="0" alt="Manish Kumar" src="https://img.icons8.com/nolan/40/twitter.png"/>
+<img src="https://img.icons8.com/nolan/40/twitter.png"/>
 </a>
-<!-- <a href="https://www.instagram.com/groot_off/">
-<img border="0" alt="Manish Kumar" src="https://img.icons8.com/doodle/38/000000/instagram--v1.png"/>
-</a>
-
-<a href="https://tttttt.me/grootoff">
-<img border="0" alt="Manish Kumar" src="https://img.icons8.com/doodle/40/000000/telegram-app.png"/>
-</a> -->
-
 <a href="mailto:ms.excv@gmail.com">
-<img border="0" alt="Manish Kumar" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
+<img src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
 </a>
 </p>
 
-# 💻 Tech Stack:
+---
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+## 🎯 Current Focus
 
-# 📊 GitHub Stats:
+- ⚡ Optimizing frontend performance at scale  
+- 🧠 Learning system design for frontend engineers  
+- 🔍 Exploring better state management & architecture patterns  
 
-## ![](https://github-readme-stats.vercel.app/api?username=grootoff&theme=swift&hide_border=false&include_all_commits=true&count_private=false)
+---
 
-[![](https://visitcount.itsvg.in/api?id=grootoff&icon=0&color=0)](https://visitcount.itsvg.in)
+## ✨ Fun Fact
+
+> I love turning complex problems into simple, elegant UI 🚀  
+
+---
+
+<p align="center">
+<img src="https://visitcount.itsvg.in/api?id=grootoff&icon=6&color=6"/>
+</p>
