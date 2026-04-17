@@ -42,7 +42,6 @@
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </p>
 
 ---
@@ -62,10 +61,7 @@
 <a href="https://www.linkedin.com/in/grootoff/">
 <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
 </a>
-<a href="https://twitter.com/grootoff6">
-<img src="https://img.icons8.com/nolan/40/twitter.png"/>
-</a>
-<a href="mailto:ms.excv@gmail.com">
+<a href="mailto:manishcse23@gmail.com">
 <img src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
 </a>
 </p>
